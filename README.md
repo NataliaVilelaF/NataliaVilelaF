@@ -1,10 +1,7 @@
--  Olá,eu sou Natália vilela figueredo
--  Estou em busca da minha primeira oportunidade na área
--  Sou formada em Analise e desenvolvimento de sistema pela Unopar
--  tenho conhecimentos em Html,Css,JavaScript
--  Estou estudando pra cada vez me aprimorar e com isso vou trabalhar com meus projetos pessoais
-
-
+-  Olá,eu sou Natália Vilela Figueredo
+-  Sou formada em Análise e desenvolvimento de sistema pela Unopar
+-  Tenho conhecimentos em Html,Css,JavaScript,C#,Ext.JS,Sql,.Net
+-   Atualmente eu trabalho na Agili Software Brasil como Desenvolvedora FullStack,Estou estudando pra cada vez me aprimorar na area.
 
 <!---
 NataliaVilelaF/NataliaVilelaF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
